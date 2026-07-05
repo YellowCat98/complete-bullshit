@@ -1,2 +1,1 @@
-This file can include information on how users can support you (Ko-Fi or Patreon for example).
-You can also delete this file if you don't need it.
+If you like SerpentLua and would like to donate, my ko-fi is https://ko-fi.com/yellowcat98!!
