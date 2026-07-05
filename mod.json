@@ -1,0 +1,40 @@
+{
+	"geode": "5.7.1",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "yellowcat98.a_load_of_bullshit",
+	"name": "A load of Bullshit",
+	"version": "v1.0.0",
+	"developer": "YellowCat98",
+	"description": "",
+	"early-load": true,
+	"dependencies": {
+		"geode.node-ids": ">=v1.23.3"
+	},
+	"settings": {
+		"doom-exit-messages": {
+			"type": "title",
+			"description": "The shareware version of doom has a few funny exit messages, if you enable this you'll see them when you exit the game.",
+			"name": "Doom Exit Messages"
+		},
+		"doom-enabled": {
+			"type": "bool",
+			"name": "Enabled",
+			"default": true
+		},
+
+		"cpu-core-sprite": {
+			"type": "title",
+			"description": "Shows your icon in the top left of the screen while the game is loading. Several icons are placed there depending on how many cores your CPU has.\nThis is inspired by how some Linux systems do the same but with the penguin."
+		},
+		"cpu-core-enabled": {
+			"type": "bool",
+			"name": "Enabled",
+			"default": true
+		}
+	}
+}
